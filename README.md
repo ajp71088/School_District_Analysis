@@ -27,4 +27,17 @@ Analysis was provided to the school board so that they would have the informatio
 * % Overall Passing, therefore, also reduced significantly (by 25.871559).
 
 ##### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
-- 
+- Here's the top 5 schools before replacing the THS ninth graders:
+![image](https://user-images.githubusercontent.com/107162310/177622022-15c53adb-3464-4d0e-af32-cad884fbc381.png)
+- And here's the top 5 schools after only counting the THS metrics against its 10th-12th graders:
+![image](https://user-images.githubusercontent.com/107162310/177622360-0a6ac2e2-b5c9-47c1-8ec4-4a117c5145b3.png)
+- When recalculating the scores for THS using only the 10th-12th graders, there is very minimal impact on the school's ranking in the top schools.
+- % Overall Passing saw a decrease, but not enough of one to take it down a spot.
+
+##### How does replacing the ninth-grade scores affect the following:
+##### - Math and reading scores by grade
+The average math score decreased by 0.067412. The average reading score increased by 0.047152.
+##### - Scores by school spending
+
+##### - Scores by school size
+##### - Scores by school type
